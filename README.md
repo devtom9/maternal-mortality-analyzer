@@ -15,7 +15,6 @@ A C++ console application that analyzes real maternal mortality datasets to iden
 
 - ## How to Run
 1. Clone this repository:
-   ```bash
 2. git clone https://github.com/devtom9/maternal-mortality-analyzer.git
 3. cd maternal-mortality-analyzer
 4. g++ main.cpp -o analyzer
