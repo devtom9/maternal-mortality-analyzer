@@ -28,3 +28,6 @@ resident_status, education, month_of_death, age_recode, place_of_death, martial_
 Each column corresponds to the factors listed above respectively.
 
 Here is the link to the Dataset, code and value definitions: https://docs.google.com/document/d/1K1aOTzFVWrthwQR0SljiTBUk-XzNsBkbm_0rgZbtR9Q/edit?tab=t.0#heading=h.8abub6nzdoks
+
+## Preview
+![Console Screenshot of Program](screenshot.png)
